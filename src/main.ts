@@ -11,5 +11,5 @@ app.get("/", function (req, res) {
 
 app.listen(port, () => {
   //eslint-disable-next-line
-  console.log("Server starting at port: 3000");
+  console.log(`Server starting at port: ${port}`);
 });
