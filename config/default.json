@@ -1,0 +1,4 @@
+{
+  "port": 5002,
+  "dbUri": "mongodb://0.0.0.0:27017/rest-api-test"
+}
